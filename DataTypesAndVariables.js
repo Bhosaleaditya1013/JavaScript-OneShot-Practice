@@ -11,6 +11,7 @@ console.log();
 
 var a = "Hello All";  // old way... (Don't prefer)
 console.log(a);
+console.log(typeof(a)); // string
 console.log();
 
 
