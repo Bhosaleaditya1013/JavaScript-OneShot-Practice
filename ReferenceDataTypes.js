@@ -7,6 +7,16 @@
 //                     return "Hello " + name;
 //                 }
 
+// 1) Object → { key: value }:
+
+let students ={
+    name:"Aditya",
+    class:"MCA-II",
+    division : "CodeWorriors"
+}
+
+console.log(students);
 
 
-// 
+
+
